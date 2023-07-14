@@ -1,1 +1,2 @@
-yfgcv
+#!/bin/bash
+gcc -E $CFILE
